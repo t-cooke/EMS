@@ -15,6 +15,6 @@ class Check extends Model
         return $this->belongsTo(Employee::class);
     }
 }
-
+//kingtiger modified
  
     
